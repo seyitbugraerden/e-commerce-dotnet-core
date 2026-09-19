@@ -1,0 +1,11 @@
+# Build output
+bin/
+obj/
+
+# IDE and OS files
+.vs/
+.vscode/
+.DS_Store
+
+# Frontend vendor libraries
+wwwroot/lib/
