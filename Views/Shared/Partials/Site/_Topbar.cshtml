@@ -19,10 +19,11 @@
                 </div>
             </div>
             <div class="col-lg-5">
-                <form>
+                <form asp-controller="Urun" asp-action="List" method="get">
                     <div class="input-group">
-                        <input type="text" placeholder="Anahtar kelime" class="form-control">
-                        <button class="btn btn-primary"><i class="fa fa-search"></i></button>
+                        <input name="q" type="text" placeholder="Anahtar kelime" class="form-control"
+                            value="@ViewData["q"]">
+                        <button type="submit" class="btn btn-primary"><i class="fa fa-search"></i></button>
                     </div>
                 </form>
             </div>

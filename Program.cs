@@ -27,15 +27,12 @@ app.UseRouting();
 
 app.UseAuthorization();
 
-app.MapStaticAssets();
-
-// urunler/telefon
-// urunler/elektronik
-// urunler/beyaz-esya
+// app.MapStaticAssets();
+app.UseStaticFiles();
 
 app.MapControllerRoute(
     name: "urunler_by_kategori",
-    pattern: "urunler/{url}",
+    pattern: "urunler/{url?}",
     defaults: new { controller = "Urun", action = "List" })
     .WithStaticAssets();
 
