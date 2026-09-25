@@ -19,6 +19,7 @@
             <div class="card-body">
                 <div asp-validation-summary="All" class="text-danger"></div>
                 <form method="post" enctype="multipart/form-data">
+                <!-- enctype bir resim dosyası yüklemek için gerekli olan form özelliğidir. Bu özellik olmadan resim yüklenemez. -->
                     <div class="row mb-3">
                         <label asp-for="UrunAdi" class="col-sm-2 col-form-label"></label>
                         <div class="col-sm-10">
