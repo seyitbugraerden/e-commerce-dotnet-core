@@ -9,8 +9,10 @@ C# ve ASP.NET Core MVC ile e-ticaret CMS uygulaması: ürün, kategori ve slider
 ## Topics
 
 ```text
-csharp aspnet-core dotnet mvc cms ecommerce entity-framework-core sqlite sql razor bootstrap code-first crud
+csharp aspnet-core dotnet mvc cms ecommerce entity-framework-core sqlite sql razor bootstrap code-first crud turkish
 ```
+
+Bu etiketler GitHub depo sayfasında **About → Edit → Topics** alanına ayrı ayrı eklenir. README içindeki konu bağlantıları bu alanı otomatik güncellemez.
 
 ## Website
 

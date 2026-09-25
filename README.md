@@ -8,6 +8,8 @@ C# ve ASP.NET Core MVC ile geliştirilmiş, **ürün kataloğu ve içerik yönet
 ![SQLite](https://img.shields.io/badge/SQL-SQLite-003B57?logo=sqlite&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-5.3.3-7952B3?logo=bootstrap&logoColor=white)
 
+[csharp](https://github.com/topics/csharp "Topic: csharp") · [aspnet-core](https://github.com/topics/aspnet-core "Topic: aspnet-core") · [dotnet](https://github.com/topics/dotnet "Topic: dotnet") · [mvc](https://github.com/topics/mvc "Topic: mvc") · [cms](https://github.com/topics/cms "Topic: cms") · [ecommerce](https://github.com/topics/ecommerce "Topic: ecommerce") · [entity-framework-core](https://github.com/topics/entity-framework-core "Topic: entity-framework-core") · [sqlite](https://github.com/topics/sqlite "Topic: sqlite") · [sql](https://github.com/topics/sql "Topic: sql") · [razor](https://github.com/topics/razor "Topic: razor") · [bootstrap](https://github.com/topics/bootstrap "Topic: bootstrap") · [code-first](https://github.com/topics/code-first "Topic: code-first") · [crud](https://github.com/topics/crud "Topic: crud") · [turkish](https://github.com/topics/turkish "Topic: turkish")
+
 ## CMS özellikleri
 
 | Modül | İşlevler |
